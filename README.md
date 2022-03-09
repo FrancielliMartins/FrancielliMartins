@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FrancielliMartins
+- 👀 I’m interested in  Java,
+- 🌱 I’m currently learning  Programming languages and Java,
+- 💞️ I’m looking to collaborate on  acquire knowledge,
+- 📫 How to reach me for e-mail: franciellimartins1@gmail.com
